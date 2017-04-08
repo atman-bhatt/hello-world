@@ -5,7 +5,7 @@
  * 
  * @version 1.0 [Functions required for the general operations, defined here for reusability.]
  */
-define('API_KEY_RAILWAYAPI_COM', 'jqva4vhp');
+define('API_KEY_RAILWAYAPI_COM', '-------');
 
 /**
  * [void _final defines a php constant]
