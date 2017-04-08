@@ -1,0 +1,49 @@
+ ✔ Trains Between stations @done (17-04-08 13:06)
+   ✔ http://api.railwayapi.com/between/source/<station code>/dest/<station code>/date/dd-mm/apikey/<apikey>/ @done (17-04-08 13:06)
+
+ ✔ PNR Status @done (17-04-08 13:06)
+   ✔ http://api.railwayapi.com/pnr_status/pnr/<pnr no>/apikey/<apikey>/ @done (17-04-08 13:06)
+
+ ✔ Train Fare Enquiry @done (17-04-08 13:28)
+   ✔ http://api.railwayapi.com/fare/train/<train number>/source/<source station code>/dest/<dest station code>/age/<age>/quota/<quota>/doj/<doj>/apikey/<apikey>/ @done (17-04-08 13:28)
+
+ ✔ Train Arrivals at station (Live station info) @done (17-04-08 13:31)
+   ✔ http://api.railwayapi.com/arrivals/station/<station code>/hours/<hours to search within>/apikey/<apikey>/ @done (17-04-08 13:31)
+
+ ✔ Station autocomplete suggest @done (17-04-08 13:56)
+   ✔ http://api.railwayapi.com/suggest_station/name/<partial station name>/apikey/<apikey>/ @done (17-04-08 13:56)
+
+ ✔ Train autocomplete suggest @done (17-04-08 13:57)
+   ✔ http://api.railwayapi.com/suggest_train/trains/<partial train name or number>/apikey/<apikey>/ @done (17-04-08 13:57)
+
+ ✔ LIVE train status @done (17-04-08 14:00)
+   ✔ http://api.railwayapi.com/live/train/<train number>/doj/<yyyymmdd>/apikey/<apikey>/ @done (17-04-08 14:00)
+
+ ✔ Seat Availability & Seat Map @done (17-04-08 14:06)
+   ✔ http://api.railwayapi.com/check_seat/train/<train number>/source/<source code>/dest/<dest code>/date/<doj in DD-MM-YYYY>/class/<class code>/quota/<quota code>/apikey/<apikey>/ @done (17-04-08 14:06)
+
+ ✔ Train route information Map @done (17-04-08 14:08)
+   ✔ http://api.railwayapi.com/route/train/<train number>/apikey/<apikey>/ @done (17-04-08 14:08)
+
+ ✔ Train name/number @done (17-04-08 14:17)
+   ✔ http://api.railwayapi.com/name_number/train/<name or number>/apikey/<apikey>/ @done (17-04-08 14:17)
+
+ ✔ Station name to Code @done (17-04-08 14:22)
+   ✔ http://api.railwayapi.com/name_to_code/station/<station name>/apikey/<apikey>/ @done (17-04-08 14:22)
+
+ ✔ Cancelled Trains @done (17-04-08 14:24)
+   ✔ http://api.railwayapi.com/cancelled/date/<date in dd-mm-yyyy>/apikey/<apikey>/ @done (17-04-08 14:24)
+
+ ✔ Rescheduled Trains @done (17-04-08 14:27)
+   ✔ http://api.railwayapi.com/rescheduled/date/<date in dd-mm-yyyy>/apikey/<apikey>/ @done (17-04-08 14:27)
+ 
+ ✘ Diverted Trains -- NA in railwayapi site @cancelled (17-04-08 14:24)
+
+ ✘ Special Trains -- NA in railwayapi site @cancelled (17-04-08 14:24)
+
+ ✘ Heritage Trains -- NA in railwayapi site @cancelled (17-04-08 14:24)
+
+ ✘ Food in train (from 3rd api single api) @cancelled (17-04-08 14:24)
+
+ ☐ Feedback / rating
+
